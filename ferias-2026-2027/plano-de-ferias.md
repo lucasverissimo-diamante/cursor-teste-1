@@ -22,7 +22,7 @@ Saindo de BH em 15/12 e voltando em 12/01 são **28 noites** fora, não 20.
 | 11/01 | Teófilo Otoni (MG), volta | 1 |
 | | **Total** | **28** |
 
-R$ 10.000 / 28 = **R$ 357 por noite em média**, incluindo semana de Natal e de Réveillon, para três pessoas e com nota alta. Minha estimativa realista com as hospedagens abaixo fica **entre R$ 11.300 e R$ 14.600** (detalhe na seção 9). Ou seja: o teto é apertado. Dá para chegar perto dele com as opções econômicas e negociando Pix, mas não vou dizer que cabe com folga porque não cabe.
+R$ 10.000 / 28 = **R$ 357 por noite em média**, incluindo semana de Natal e de Réveillon, para três pessoas e com nota alta. Minha estimativa realista com as hospedagens abaixo fica **entre R$ 10.900 e R$ 13.600** (detalhe na seção 9), já considerando que o João (1 ano e 2 meses) dorme em berço num quarto de casal. Ou seja: o teto é apertado. Dá para chegar perto dele com as opções econômicas e negociando Pix, mas não vou dizer que cabe com folga porque não cabe.
 
 Assumi que Natal e Réveillon agora são na Bahia, só nós três. Se isso estiver errado, o roteiro muda.
 
@@ -58,7 +58,12 @@ BH até Barra Grande são cerca de 1.222 km. Depois de Teófilo Otoni ainda sobr
 3. **Prado a Cumuruxatiba (BA-001):** cerca de 30 km de terra. A licença ambiental do asfalto só saiu em 22/08/2026, então em dezembro deve estar de terra ou em obra. Dezembro é um dos meses mais chuvosos ali (média de 121 a 134 mm). Com chuva vira lama. Abastecer em Prado.
 4. **Ponte do Rio Jequitinhonha (BR-101, Itapebi):** está em reconstrução desde 2025. Em abril/2026 ônibus estavam liberados e só caminhão pesado proibido, então carro deve passar. Confirmar na semana do dia 27/12.
 5. **BR-030 em Maraú:** a obra de asfalto começou em 2025 só pela drenagem. Em março e agosto de 2026 houve carro e ônibus atolados. Carro comum passa no seco, devagar. Com chuva forte pode ficar ruim sem 4x4. Perguntar à pousada como está a estrada na véspera.
-6. **Qual é o nosso carro?** Se for sedã ou hatch baixo, os dois trechos de terra são o maior risco da viagem. Se for SUV ou picape, o risco cai bastante.
+6. **Nosso carro, Nissan Kicks Sense 2026:** SUV compacto com cerca de 200 mm de altura livre do solo (ficha técnica da linha 2026) e porta-malas de 470 litros. Para as duas estradas de terra, no seco, ele dá conta com folga, bem melhor que um sedã. O limite é a lama: a tração é só dianteira e o pneu é de asfalto, então depois de chuva forte o risco de atolar continua. Regras práticas:
+   - Não entrar na terra com chuva forte caindo ou logo depois. Perguntar à pousada na véspera; se estiver ruim, esperar algumas horas ou usar o plano B (Camamu, no caso de Maraú).
+   - Calibrar os pneus com a pressão de carro carregado indicada no manual (etiqueta na porta do motorista) antes de sair de BH.
+   - Conferir o estepe antes da viagem (se é de uso temporário, a velocidade máxima é limitada) e levar macaco e chave em dia.
+   - 470 litros não comportam 28 dias de roupa mais carrinho, berço portátil e coisas do João. Levar roupa para uns 10 dias e lavar no caminho (perguntar às pousadas por lavanderia).
+   - Fazer a revisão antes de sair, com atenção a suspensão, freios e pneus.
 
 ### Almoço e paradas na ida
 Esta parte ficou fraca: a pesquisa não conseguiu confirmar notas recentes de restaurantes de beira de estrada. O que tenho:
@@ -66,6 +71,41 @@ Esta parte ficou fraca: a pesquisa não conseguiu confirmar notas recentes de re
 - **Dia 1, jantar em Teófilo Otoni:** restaurante do próprio Hotel Capital das Pedras (elogiado por hóspedes) ou a pizzaria do Front Comfort.
 - **Dia 2, Teixeira de Freitas:** Portinha (buffet por quilo conhecido no sul da Bahia; tem unidades em Porto Seguro e Arraial, a de Teixeira não confirmei). Alternativa: restaurante do Lord, na BR-101.
 - **Paradas:** a cada 2h. Dia 1: João Monlevade, Ipatinga, Valadares. Dia 2: Nanuque (2h depois de Teófilo Otoni), Teixeira de Freitas, Itamaraju ou Prado (último posto e banheiro antes da terra).
+
+---
+
+## 2B. Viajando com o João (1 ano e 2 meses)
+
+### No carro
+- Pela regra do Contran (Resolução 819/2021), de 1 a 4 anos (até 18 kg) ele vai em **cadeirinha** no banco de trás. Pediatras recomendam manter a cadeirinha **voltada para trás** pelo maior tempo que o modelo permitir.
+- Parada a cada 2h já está no plano. O que ajuda mais: sair depois do café da manhã, para ele dormir a soneca da manhã no carro, almoçar com calma e fazer o trecho da tarde na segunda soneca.
+- Nove dias de estrada no total, cinco deles com cerca de 6h de direção. É bastante para um bebê de 1 ano. O dia mais puxado na costa é o 27/12 (Santo André até Ilhéus, 5h a 5h30). Se ele estiver cansado, dá para quebrar em Itabuna ou Canavieiras (sem pesquisa de hotel feita).
+
+### Nas pousadas
+- Com menos de 2 anos, na maioria das pousadas ele **não paga** (as regras vistas vão de "até 2 anos" a "até 5 anos"). Por isso dá para reservar **quarto de casal com berço**, que costuma ser mais barato que quarto família. Confirmar sempre se tem berço e se é cobrado.
+- Lugares com cozinha ou frigobar facilitam a comida dele: Vila Lua de Taipu (cozinha compacta), Jardim Cumuru (suíte com cozinha), Residence Pé na Areia (apartamento).
+- Levar abafador de ouvido infantil para os fogos do Réveillon e para a celebração em Jequié, se for barulhenta.
+
+### Na praia
+- As bases escolhidas têm água rasa e calma, que é o que importa nessa idade: Praia do Centro em Cumuruxatiba, foz do rio em Santo André e a baía de Barra Grande.
+- Evitar sol forte entre 10h e 16h. Camiseta com proteção UV, chapéu, guarda-sol ou tenda, protetor solar infantil e muita água.
+- **Barco só com colete de bebê próprio.** Barcos e jangadas quase nunca têm colete do tamanho dele. Passeio de barco de dia inteiro (Corumbau, Baía de Camamu completa) não vale com ele; Coroa Alta e passeios curtos, sim.
+- Nas piscinas de Taipu, ele fica no colo ou na parte rasa. Adultos de sapatilha por causa do coral.
+
+### Mosquito
+- Dezembro e janeiro são época de dengue na Bahia. As fontes divergem sobre a idade mínima de cada repelente: o IR3535 é o mais citado como permitido a partir de 6 meses. Comprar repelente com indicação "a partir de 6 meses" no rótulo e confirmar com a pediatra.
+- Mosquiteiro para o berço e quarto com ar-condicionado ajudam mais que o repelente à noite.
+
+### Saúde: o ponto mais sério da viagem
+- **Península de Maraú não tem hospital.** Só postos de saúde (USF). Uma emergência com o João em Taipu de Fora significa estrada de terra mais algumas horas até um hospital maior (Itabuna ou Ilhéus). SAMU: 192.
+- **Cumuruxatiba:** UBS de segunda a sexta, das 8h às 17h. Hospital em Prado (30 km de terra) ou Teixeira de Freitas.
+- **Santo André:** hospital em Porto Seguro (balsa mais estrada).
+- **Ilhéus, Jequié e Vitória da Conquista:** cidades com hospital.
+- Antes de sair:
+  - conferir se o plano de saúde tem rede credenciada em Porto Seguro, Ilhéus, Itabuna, Jequié e Vitória da Conquista;
+  - levar a carteira de vacinação;
+  - deixar combinado com a pediatra um canal para dúvidas (WhatsApp ou telemedicina);
+  - montar a farmacinha que ela indicar (antitérmico, soro de reidratação oral, termômetro, soro fisiológico, pomada de assadura).
 
 ---
 
@@ -103,7 +143,7 @@ Airbnb para comparar: Cumuruxatiba Chalet (4,95 com 205 avaliações, até 4 pes
 **Passeios com criança:**
 - Praia do Centro/Píer e Rio do Peixe (calmas, piscinas na maré baixa).
 - Barra do Cahy (15 a 18 km, 30 min de terra; rio e mar, ir na maré baixa).
-- Barco ao recife de Carapeba e Corumbau (dia inteiro, de 9h a 16h30): longo para criança pequena; só se o João aguentar e com colete infantil. Corumbau de carro não vale (52 a 57 km de terra ruim).
+- Barco ao recife de Carapeba e Corumbau (dia inteiro, de 9h a 16h30): não recomendo com o João (7h de barco e sol com bebê de 1 ano). Corumbau de carro também não vale (52 a 57 km de terra ruim).
 
 ---
 
@@ -129,7 +169,7 @@ Links: https://www.booking.com/hotel/br/pousada-colmeia-santa-cruz-cabralia.html
 **Ceia de Natal:** nenhuma pousada teve ceia confirmada. Perguntar se tem e o preço por adulto e criança. Referência: um bistrô de Arraial cobrou R$ 260 por pessoa em 2024. Ter cozinha e fazer a ceia em casa economiza bastante.
 
 **Bate-voltas com criança:**
-- Coroa Alta: barco saindo de Cabrália, banco de areia e recifes na maré baixa. O mais prático daqui.
+- Coroa Alta: barco saindo de Cabrália, banco de areia e recifes na maré baixa. O mais prático daqui. Com o João, só com colete de bebê próprio.
 - Recife de Fora: barco saindo de Porto Seguro, só na maré baixa.
 - Lua cheia em 23/12: marés baixas mais fortes de 22 a 25/12, as melhores datas para Coroa Alta e Recife de Fora.
 - Trancoso e Caraíva: dias longos com duas balsas (Trancoso) ou terra e canoa (Caraíva). Não recomendo com criança pequena.
@@ -207,19 +247,21 @@ Comer em Jequié: Esfiha Paulista (4,2 com cerca de 1.044 avaliações) e o rest
 
 ## 9. Orçamento de hospedagem (estimativa, não cotação)
 
+Considerando quarto de casal com berço para o João (ele não paga na maioria das pousadas por ter menos de 2 anos):
+
 | Bloco | Noites | Econômico | Recomendado |
 |---|---|---|---|
 | Teófilo Otoni (ida) | 1 | R$ 250 (Capital das Pedras) | R$ 300 |
-| Cumuruxatiba | 5 | R$ 1.500 (Boa Sorte, R$ 300) | R$ 2.000 (São Francisco, R$ 400) |
-| Santo André, Natal | 6 | R$ 2.700 (Colmeia, R$ 450) | R$ 3.900 (Vila Araticum, R$ 650) |
-| Ilhéus Sul, Réveillon | 6 | R$ 3.000 (Praia Bela, R$ 500) | R$ 3.900 (Aldeia da Praia, R$ 650) |
-| Taipu de Fora | 6 | R$ 2.700 (Cantinho de Taipu, R$ 450) | R$ 3.300 (Espaço do Sagui, R$ 550) |
-| Jequié | 2 | R$ 660 (Granterrara) | R$ 660 |
+| Cumuruxatiba | 5 | R$ 1.500 (Boa Sorte, R$ 300) | R$ 1.900 (São Francisco, R$ 380) |
+| Santo André, Natal | 6 | R$ 2.580 (Colmeia, R$ 430) | R$ 3.600 (Vila Araticum, R$ 600) |
+| Ilhéus Sul, Réveillon | 6 | R$ 2.880 (Praia Bela, R$ 480) | R$ 3.600 (Aldeia da Praia, R$ 600) |
+| Taipu de Fora | 6 | R$ 2.520 (Cantinho de Taipu, R$ 420) | R$ 3.000 (Espaço do Sagui, R$ 500) |
+| Jequié | 2 | R$ 640 (Granterrara) | R$ 640 |
 | Vitória da Conquista | 1 | R$ 280 | R$ 280 |
 | Teófilo Otoni (volta) | 1 | R$ 250 | R$ 300 |
-| **Total** | **28** | **cerca de R$ 11.300** | **cerca de R$ 14.600** |
+| **Total** | **28** | **cerca de R$ 10.900** | **cerca de R$ 13.600** |
 
-As diárias por bloco são minha estimativa para a temporada, a partir dos preços "a partir de" encontrados. Podem errar para mais ou para menos.
+As diárias por bloco são minha estimativa para a temporada, a partir dos preços "a partir de" encontrados (a maioria era tarifa de casal fora de temporada). Podem errar para mais ou para menos. O cenário econômico fica uns R$ 900 acima do teto; negociando Pix em duas ou três pousadas, ele encosta nos R$ 10 mil.
 
 **Como chegar mais perto dos R$ 10 mil:**
 1. Fechar direto com a pousada por WhatsApp e pagar no Pix: costuma sair 5% a 15% abaixo do Booking (as pousadas pagam comissão ao Booking).
@@ -246,7 +288,7 @@ Fora a hospedagem, contar também: combustível (cerca de 3.000 km no total), pe
 - Confirmar por escrito: ar-condicionado no quarto, vaga de carro, cama extra/berço, café incluso, valor total e política de cancelamento.
 
 ### Mensagem pronta para mandar às pousadas
-> Olá, tudo bem? Somos uma família de BH: 2 adultos e 1 criança de __ anos. Queremos reservar de __/__ a __/__ (__ noites). Vocês têm quarto família com ar-condicionado disponível? Qual o valor total com café da manhã, e tem desconto para pagamento no Pix? Tem vaga de estacionamento? Tem berço ou cama extra? Existe estadia mínima ou pacote de Natal/Réveillon? Qual a política de cancelamento? E como está a estrada de acesso quando chove? Se puderem mandar fotos do quarto, agradeço. Obrigado!
+> Olá, tudo bem? Somos uma família de BH: 2 adultos e um bebê de 1 ano e 2 meses. Queremos reservar de __/__ a __/__ (__ noites). Vocês têm quarto de casal com ar-condicionado e espaço para berço disponível? Vocês têm berço? O bebê paga? Qual o valor total com café da manhã, e tem desconto para pagamento no Pix? Tem vaga de estacionamento (estamos de Nissan Kicks)? Existe estadia mínima ou pacote de Natal/Réveillon? Qual a política de cancelamento? E como está a estrada de acesso quando chove? Se puderem mandar fotos do quarto, agradeço. Obrigado!
 
 ---
 
@@ -270,4 +312,7 @@ Fora a hospedagem, contar também: combustível (cerca de 3.000 km no total), pe
 - Jequié: https://www.kayak.com.br/Hoteis-Granterrara-Hotel-Jequie.2603656.ksp , https://cardapio.menu/restaurants/jequie/esfiha-paulista
 - Restaurantes Ipatinga e Teixeira de Freitas: https://wanderlog.com/place/details/2840140 , https://au.trip.com/travel-guide/foods/Teixeira%20de%20Freitas-139415-restaurant/Restaurante%20Lord-20217059
 - Fases da lua: https://starwalk.space/pt/news/full-moon-december e https://www.calendarr.com/brasil/calendario-lunar-janeiro-2027/
+- Nissan Kicks 2026 (altura do solo e porta-malas): https://carroscomcamanzi.com.br/wp-content/uploads/2025/06/Ficha_Tecnica_Novo_Nissan_Kicks_2026-DADOS-TECNICOS.pdf e https://www.webmotors.com.br/nissan/kicks/2026
+- Repelentes em crianças: https://www.sbp.com.br/fileadmin/user_upload/2012/12/Repelentes-2015.pdf e https://idec.org.br/consultas/dicas-e-direitos/repelente-dicas-para-usar-com-seguranca
+- Saúde em Maraú: https://www.bnews.com.br/noticias/cidades/prefeitura-de-marau-inaugura-dois-postos-de-saude-no-municipio.html
 - Hotéis e pousadas: páginas de Booking, Kayak, Momondo, Expedia, Hotels.com e TripAdvisor citadas em cada seção.
